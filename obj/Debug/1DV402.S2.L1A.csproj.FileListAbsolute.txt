@@ -1,0 +1,6 @@
+C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-1-a-gissa-det-hemliga-talet-master\1dv402-ma223md-2-1gissaDetHemligaTalet\bin\Debug\1DV402.S2.L1A.exe.config
+C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-1-a-gissa-det-hemliga-talet-master\1dv402-ma223md-2-1gissaDetHemligaTalet\bin\Debug\1DV402.S2.L1A.exe
+C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-1-a-gissa-det-hemliga-talet-master\1dv402-ma223md-2-1gissaDetHemligaTalet\bin\Debug\1DV402.S2.L1A.pdb
+C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-1-a-gissa-det-hemliga-talet-master\1dv402-ma223md-2-1gissaDetHemligaTalet\obj\Debug\1DV402.S2.L1A.csprojResolveAssemblyReference.cache
+C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-1-a-gissa-det-hemliga-talet-master\1dv402-ma223md-2-1gissaDetHemligaTalet\obj\Debug\1DV402.S2.L1A.exe
+C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-1-a-gissa-det-hemliga-talet-master\1dv402-ma223md-2-1gissaDetHemligaTalet\obj\Debug\1DV402.S2.L1A.pdb
